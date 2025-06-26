@@ -1,5 +1,10 @@
 # Sistema-De-Açougue---JAVA
 
+![JavaAçougue3](https://github.com/user-attachments/assets/d97b9f13-e9f8-463e-a618-feda2a886d6d)
+![JavaAçougue1](https://github.com/user-attachments/assets/7a6f297e-fc1d-43ba-8b13-e931837b7fae)
+
+
+
 ________________________________________
 Resumo do Sistema de Carrinho de Compras - Açougue (Java)
 Este sistema simula um carrinho de compras de um açougue, permitindo ao usuário visualizar os itens disponíveis, adicionar produtos ao carrinho, calcular o valor total da compra e visualizar o conteúdo do carrinho. A aplicação é baseada em um menu interativo que facilita a navegação e execução de ações pelo usuário.
